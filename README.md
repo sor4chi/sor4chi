@@ -1,5 +1,16 @@
-### Sub Account
+## Profile
+Belonging To -> Saitama ICS B21
+
+![sor4chi Stats](https://github-readme-stats.vercel.app/api?username=sor4chi&show_icons=true&theme=radical)
+
+![sor4chi Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sor4chi)
+
+## Sub Account
 [monica-0218](https://github.com/monica-0218)
+
+## Works
+
+https://pazcal.net
 
 <!--
 **kawamurasorachi/kawamurasorachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
