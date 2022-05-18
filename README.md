@@ -1,9 +1,17 @@
 ## Profile
 ```ts
 export default {
+  name: ["sor4chi", "monica"]
   age: 19,
+  favorite: ["Create Full-Stack Web Site", "Singing", "Mahjong", "Vtuber"],
+  skills: {
+    web: {
+      front: ["HTML", "CSS", "Javascript/Typescript(Vue.js/Nuxt.js/React.js/Next.js)"]
+      back: ["Javascript/Typescript(Node.js)", "php(Laravel)", "ruby(Rails)", "Python(Django)"],
+      others:["prisma", "swagger", "docker", "aws(a bit)"] 
+    }
+  }
   univ: "Saitama ICS B22",
-  favorite: ["Create Full-Stack Web Site", "Singing", "Mahjong", "Vtuber"]
   company: "Wizleap inc. (Intern of Web Engineer)",
 }
 ```
