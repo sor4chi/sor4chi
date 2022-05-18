@@ -1,7 +1,7 @@
 ## Profile
 ```ts
 export default {
-  name: ["sor4chi", "monica"],
+  name: ["Sor4chi", "Monica"],
   age: 19,
   favorite: ["Create Full-Stack Web Site", "Singing", "Mahjong", "Vtuber"],
   univ: "Saitama ICS B22",
