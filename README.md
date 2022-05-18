@@ -10,7 +10,7 @@ export default {
     web: {
       front: ["HTML", "CSS", "Javascript/Typescript(Vue.js/Nuxt.js/React.js/Next.js)"],
       back: ["Javascript/Typescript(Node.js)", "php(Laravel)", "ruby(Rails)", "Python(Django)"],
-      others:["prisma", "swagger", "docker", "aws(a bit)"] 
+      others:["docker", "aws(a bit)"] 
     }
   },
 }
