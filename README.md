@@ -1,6 +1,12 @@
 ## Profile
-Belonging To -> Saitama ICS B21
-             -> Wizleap inc. (Intern of Engineer)
+```ts
+export default {
+  age: 19,
+  univ: "Saitama ICS B22",
+  favorite: ["Create Full-Stack Web Site", "Singing", "Mahjong", "Vtuber"]
+  company: "Wizleap inc. (Intern of Web Engineer)",
+}
+```
 
 ## Sub Account
 [monica-0218](https://github.com/monica-0218)
