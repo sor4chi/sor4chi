@@ -2,8 +2,6 @@
 Belonging To -> Saitama ICS B21
              -> Wizleap inc. (Intern of Engineer)
 
-![sor4chi Stats](https://github-readme-stats.vercel.app/api?username=sor4chi&show_icons=true&theme=radical)
-
 ## Sub Account
 [monica-0218](https://github.com/monica-0218)
 
