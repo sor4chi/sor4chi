@@ -1,12 +1,12 @@
 ## Profile
 ```ts
 export default {
-  name: ["sor4chi", "monica"]
+  name: ["sor4chi", "monica"],
   age: 19,
   favorite: ["Create Full-Stack Web Site", "Singing", "Mahjong", "Vtuber"],
   skills: {
     web: {
-      front: ["HTML", "CSS", "Javascript/Typescript(Vue.js/Nuxt.js/React.js/Next.js)"]
+      front: ["HTML", "CSS", "Javascript/Typescript(Vue.js/Nuxt.js/React.js/Next.js)"],
       back: ["Javascript/Typescript(Node.js)", "php(Laravel)", "ruby(Rails)", "Python(Django)"],
       others:["prisma", "swagger", "docker", "aws(a bit)"] 
     }
