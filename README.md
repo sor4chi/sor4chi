@@ -12,7 +12,7 @@ export default {
       back: ["Javascript/Typescript(Node.js)", "php(Laravel)", "ruby(Rails)", "Python(Django)"],
       others: ["docker", "aws(a bit)"] 
     }
-  },
+  }
 }
 ```
 
