@@ -6,7 +6,7 @@ export default {
   name: ["Sor4chi", "Monica"],
   age: 19,
   favorite: ["Create Full-Stack Web Site", "Singing", "Mahjong", "Vtuber"],
-  univ: "Saitama ICS B22",
+  univ: "Saitama ICS B2",
   company: "Wizleap inc. (Intern of Web Engineer)",
   skills: {
     web: {
