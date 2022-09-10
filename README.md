@@ -6,12 +6,12 @@ export default {
   name: ["Sor4chi", "Monica"],
   age: 19,
   favorite: ["Create Full-Stack Web Site", "Singing", "Mahjong", "Vtuber"],
-  univ: "Saitama ICS B2",
-  company: "Wizleap inc. (Intern of Web Engineer)",
+  educational: "Saitama Univ ICS B2",
+  company: "Wizleap Inc. (Internship of Web Fullstack Engineer)",
   skills: {
     web: {
       front: ["HTML", "CSS", "Javascript/Typescript(Vue.js/Nuxt.js/React.js/Next.js)"],
-      back: ["Javascript/Typescript(Node.js)", "php(Laravel)", "ruby(Rails)", "Python(Django)"],
+      back: ["Javascript/Typescript(Node.js, Express.js)", "php(Laravel)", "ruby(Rails)", "Python(Django)"],
       others: ["docker", "aws(a bit)"] 
     }
   }
