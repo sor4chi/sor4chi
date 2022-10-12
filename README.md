@@ -12,13 +12,13 @@ export default {
     web: {
       front: ["HTML", "CSS", "Javascript/Typescript(Vue.js/Nuxt.js/React.js/Next.js)"],
       back: ["Javascript/Typescript(Node.js, Express.js)", "php(Laravel)", "ruby(Rails)", "Python(Django)"],
-      others: ["docker", "aws(a bit)"] 
-    }
+    },
+    others: ["docker", "aws(a bit)"]
   }
 }
 ```
 
-## Sub Account
+## Old Account
 [monica-0218](https://github.com/monica-0218)
 
 ## Portfolio + Blog
