@@ -5,7 +5,7 @@
 export default {
   name: ["Sor4chi", "Monica"],
   age: 19,
-  favorite: ["Create Full-Stack Web Site", "Singing", "Mahjong", "Vtuber"],
+  favorite: ["Create Full-Stack Web Site", "Performance Tuning", "Escaping legacy system", "Stomic Design", "Edge function", "Singing", "Mahjong", "Vtuber"],
   educational: "Saitama Univ ICS B2",
   company: "Wizleap Inc. (Internship of Web Fullstack Engineer)",
   skills: {
