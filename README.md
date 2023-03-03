@@ -4,7 +4,7 @@
 ```ts
 export default {
   name: ["Sor4chi", "Monica"],
-  age: 19,
+  age: 20,
   favorite: ["Create Full-Stack Web Site", "Performance tuning", "Escaping legacy system", "Atomic Design", "Edge function", "Singing", "Mahjong", "Vtuber"],
   educational: "Saitama Univ ICS B2",
   company: "Wizleap Inc. (Internship of Web Fullstack Engineer)",
