@@ -1,8 +1,11 @@
 ![](https://raw.githubusercontent.com/sor4chi/sor4chi/main/profile-summary-card-output/nord_dark/0-profile-details.svg)
 
 ## Profile
+
 Name: Sor4chi / Monica
+
 Age: 20
+
 Univ: Saitama Univ ICS B2
 
 ## Old Account
