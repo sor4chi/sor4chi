@@ -1,22 +1,9 @@
 ![](https://raw.githubusercontent.com/sor4chi/sor4chi/main/profile-summary-card-output/nord_dark/0-profile-details.svg)
 
 ## Profile
-```ts
-export default {
-  name: ["Sor4chi", "Monica"],
-  age: 20,
-  favorite: ["Create Full-Stack Web Site", "Performance tuning", "Escaping legacy system", "Atomic Design", "Edge function", "Singing", "Mahjong", "Vtuber"],
-  educational: "Saitama Univ ICS B2",
-  company: "Wizleap Inc. (Internship of Web Fullstack Engineer)",
-  skills: {
-    web: {
-      front: ["HTML", "CSS", "Javascript/Typescript(Vue.js/Nuxt.js/React.js/Next.js)"],
-      back: ["Javascript/Typescript(Node.js, Express.js)", "php(Laravel)", "ruby(Rails)", "Python(Django)"],
-    },
-    others: ["docker", "aws(a bit)"]
-  }
-}
-```
+Name: Sor4chi / Monica
+Age: 20
+Univ: Saitama Univ ICS B2
 
 ## Old Account
 [monica-0218](https://github.com/monica-0218)
