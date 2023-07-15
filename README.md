@@ -6,7 +6,7 @@ Name: Sor4chi / Monica
 
 Age: 20
 
-Univ: Saitama Univ ICS B2
+Univ: Saitama Univ ICS B3
 
 ## Old Account
 [monica-0218](https://github.com/monica-0218)
