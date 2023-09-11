@@ -2,9 +2,3 @@
 
 ## Portfolio + Blog
 [https://monica-dev.com](https://monica-dev.com)
-
-## Interest
-
-- Egde Worker
-- Fronted Performance
-- NLP
