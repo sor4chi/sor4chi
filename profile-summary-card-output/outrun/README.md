@@ -22,23 +22,3 @@
 ```
 
     
-
----
-
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/sor4chi/sor4chi/main/profile-summary-card-output/outrun/2-most-commit-language.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/sor4chi/sor4chi/main/profile-summary-card-output/outrun/4-productive-time.svg)
-```
-
-    
